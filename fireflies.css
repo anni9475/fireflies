@@ -22,8 +22,8 @@
   animation: drift ease alternate infinite;
 }
 .firefly::after {
-  background: #ffd86b;
-  box-shadow: 0 0 8px 3px #fff8e8; 
+ background: #fffdf4;
+ box-shadow: 0 0 2vw 0.4vw #ffd86b;
   animation: drift ease alternate infinite, flash ease infinite;
 }
 .firefly:nth-child(1) {
