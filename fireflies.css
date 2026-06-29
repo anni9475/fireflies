@@ -22,9 +22,8 @@
   animation: drift ease alternate infinite;
 }
 .firefly::after {
-  background: white;
-  opacity: 1; 
-  box-shadow: 0 0 6px 2px white; 
+  background: #ffd86b;
+  box-shadow: 0 0 8px 3px #fff8e8; 
   animation: drift ease alternate infinite, flash ease infinite;
 }
 .firefly:nth-child(1) {
@@ -1271,11 +1270,11 @@
 @keyframes flash {
   0%, 30%, 100% {
     opacity: 0;
-    box-shadow: 0 0 0vw 0vw var(--lightblue);
+    box-shadow: 0 0 0vw 0vw #ffd86b;
   }
   5% {
     opacity: 1;
-    box-shadow: 0 0 2vw 0.4vw var(--lightblue);
+    box-shadow: 0 0 1.5vw 0.3vw #ffd86b;
   }
 }
 
