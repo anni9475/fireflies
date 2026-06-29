@@ -17,7 +17,7 @@
   transform-origin: -10vw;
 }
 .firefly::before {
-  background:#fffdf4;
+  background:#ffd70b;
   opacity: 0.4;
   animation: drift 25s ease alternate infinite;
 }
@@ -1268,14 +1268,14 @@
   }
 }
 @keyframes flash {
-  0%, 30%, 100% {
+  0%, 60%, 100% {
     opacity: 0;
-    box-shadow: 0 0 0vw 0vw #ffd86b;
+    box-shadow: 0 0 0px 0px #ffd86b;
   }
-  5% {
+
+  10%, 40% {
     opacity: 1;
-    box-shadow: 0 0 1.5vw 0.3vw #ffd86b;
+    box-shadow: 0 0 2vw 0.5vw #ffd86b;
   }
 }
-
 
