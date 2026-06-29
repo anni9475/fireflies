@@ -1,13 +1,13 @@
+body {
+  background: red !important;
+}
 
-/*
-/* ANIMATED FIREFLIES: EDITED FOR LIODEN, BY PLAYER =Austin= #43750 */
-/* ANIMATED BY MARK GOLUS ON CODEPEN: https://codepen.io/mikegolus/pen/Jegvym */
 .firefly {
   position: fixed;
   left: 50%;
   top: 50%;
-  width: 0.4vw;
-  height: 0.4vw;
+  width: 3vw;
+  height: 3vw;
   margin: -0.2vw 0 0 9.8vw;
   animation: ease 200s alternate infinite;
   pointer-events: none;
@@ -27,8 +27,8 @@
 }
 .firefly::after {
   background: white;
-  opacity: 0;
-  box-shadow: 0 0 0vw 0vw #e8bec9;
+  opacity: 1; 
+  box-shadow: 0 0 6px 2px white; 
   animation: drift ease alternate infinite, flash ease infinite;
 }
 .firefly:nth-child(1) {
