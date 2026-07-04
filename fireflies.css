@@ -4,6 +4,20 @@ div.cave-grid > img {
     height: auto;
 }
 
+a[href*="unsorted"] > div.cave-grid > img {
+    width: 240px !important;
+    height: 120px !important;
+}
+
+div.cave-grid > img[src$="nestingbanner.png"] {
+    width: 240px !important;
+    height: 120px !important;
+}
+
+a[href*="lionoverview"] > div.cave-grid > img {
+    width: 240px !important;
+    height: 120px !important;
+}
 
 .firefly {
   position: fixed;
