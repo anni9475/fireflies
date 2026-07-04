@@ -25,6 +25,8 @@ a[href*="lionoverview"] > div.cave-grid > img {
     height: 60px !important;
 }
 
+/* Fireflies */
+
 .firefly {
   position: fixed;
   left: 50%;
