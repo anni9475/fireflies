@@ -1,3 +1,10 @@
+div.cave-grid > img {
+    content: url('https://static.lioden.com/images/dynamic/backgrounds/SnowyLesothoBG.png');
+    width: 258px;
+    height: auto;
+}
+
+
 .firefly {
   position: fixed;
   left: 50%;
