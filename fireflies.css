@@ -1,29 +1,3 @@
-div.cave-grid > img {
-    content: url('https://static.lioden.com/images/dynamic/backgrounds/SnowyLesothoBG.png') !important;
-    width: 258px;
-    height: 120px;
-}
-
-/* Unsorted */
-a[href*="unsorted"] > div.cave-grid > img {
-    content: url('https://i.postimg.cc/kDrJgKg8/Unsorted.jpg') !important;
-    width: 240px !important;
-    height: 60px !important;
-}
-
-/* Nesting */
-div.cave-grid > img[src$="nestingbanner.png"] {
-    content: url('https://i.postimg.cc/VkZYJxvP/Nesting.jpg') !important;
-    width: 240px !important;
-    height: 60px !important;
-}
-
-/* Pride Overview */
-a[href*="lionoverview"] > div.cave-grid > img {
-    content: url('https://i.postimg.cc/P5JHnSyn/Overview.jpg') !important;
-    width: 240px !important;
-    height: 60px !important;
-}
 
 /* Fireflies */
 
