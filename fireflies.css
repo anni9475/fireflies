@@ -6,7 +6,7 @@ div.cave-grid > img {
 
 /* Unsorted */
 a[href*="unsorted"] > div.cave-grid > img {
-    content: url('https://static.lioden.com/images/dynamic/backgrounds/SnowyLesothoBG.png') !important;
+    content: url('https://i.postimg.cc/kDrJgKg8/Unsorted.jpg') !important;
     width: 240px !important;
     height: 60px !important;
 }
