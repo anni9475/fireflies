@@ -1,4 +1,4 @@
-a[href$="unsorted.php?id=USERID"]>div.cave-grid>img{
+a[href$="unsorted.php?id=209875"]>div.cave-grid>img{
 content: url('https://static.lioden.com/images/dynamic/backgrounds/7thlionlands_WetNight.png')!important;
 width: 240px;
 height: 60px;}
@@ -8,7 +8,7 @@ div.cave-grid>img[src$="nestingbanner.png"] {
 width: 240px;
 height: 60px; }
 
-a[href*="lionoverview.php?id=USERID"]>div.cave-grid>img {
+a[href*="lionoverview.php?id=209875"]>div.cave-grid>img {
 content: url('https://i.postimg.cc/kgnNpCnR/visionofancestorstest.jpg')!important;
 width: 240px;
 height: 60px; }
