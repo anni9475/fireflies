@@ -1,3 +1,62 @@
+a[href$="unsorted.php?id=USERID"]>div.cave-grid>img{
+content: url('https://static.lioden.com/images/dynamic/backgrounds/7thlionlands_WetNight.png')!important;
+width: 240px;
+height: 60px;}
+
+div.cave-grid>img[src$="nestingbanner.png"] {
+	content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important; 
+width: 240px;
+height: 60px; }
+
+a[href*="lionoverview.php?id=USERID"]>div.cave-grid>img {
+content: url('https://i.postimg.cc/kgnNpCnR/visionofancestorstest.jpg')!important;
+width: 240px;
+height: 60px; }
+
+a[href$="150057"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/frozeninfight.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="378804"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important; 
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="148383"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/snowyforest.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="378803"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="261642"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/snowysav.png')!important; 
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="149095"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/Snowy_Simien_Mountains.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+a[href$="unsorted-beetles.php?id=USERID"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
+
+a[href$="mound.php?id=MOUNDID"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
+
+
+
 .firefly {
   position: fixed;
   left: 50%;
