@@ -9,30 +9,36 @@ width: 240px;
 height: 60px; }
 
 a[href*="lionoverview.php?id=209875"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/PfbzdJV8/cubsmales.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/frozeninfight.png')!important;
 width: 240px;
 height: 60px; }
 
+/* Cubs & Males */
+
 a[href$="150057"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/frozeninfight.png')!important;
+content: url('https://i.postimg.cc/PfbzdJV8/cubsmales.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
+/* Empty */
 a[href$="378804"]>div.cave-grid>img {
 content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
+/* Females */
 a[href$="148383"]>div.cave-grid>img {
 content: url('https://static.lioden.com/images/dynamic/backgrounds/snowyforest.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
+/* NCL Paradise */
 a[href$="378803"]>div.cave-grid>img {
 content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
+/* Sales */
 a[href$="261642"]>div.cave-grid>img {
 content: url('https://static.lioden.com/images/dynamic/backgrounds/snowysav.png')!important; 
 width: 240px !important;
