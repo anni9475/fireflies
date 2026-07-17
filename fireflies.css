@@ -16,46 +16,53 @@ height: 60px; }
 /* Cubs & Males */
 
 a[href$="150057"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/PfbzdJV8/cubsmales.png')!important;
+content: url('https://i.postimg.cc/WpQ3Yww6/cubsmalesnew.jpg')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* Empty */
 a[href$="378804"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important; 
+content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* Females */
 a[href$="148383"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/snowyforest.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* NCL Paradise */
 a[href$="378803"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/Kilimandzaro.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+/* Old Ladies */
+a[href$="261642"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* Sales */
-a[href$="261642"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/snowysav.png')!important; 
-width: 240px !important;
-height: 120px !important; }
-
 a[href$="149095"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/Snowy_Simien_Mountains.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
-a[href$="unsorted-beetles.php?id=USERID"] img {
+a[href$="unsorted-beetles.php?id=209875"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
-a[href$="mound.php?id=MOUNDID"] img {
+a[href$="mound.php?id=75174"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
+
+a[href$="mound.php?id=88781"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
 background-size: cover;
 width: 130px;
