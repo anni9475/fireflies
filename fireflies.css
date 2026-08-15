@@ -1,69 +1,69 @@
 a[href$="unsorted.php?id=209875"]>div.cave-grid>img{
-content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important;
 width: 240px;
 height: 60px;}
 
 div.cave-grid>img[src$="nestingbanner.png"] {
-	content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important; 
+	content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important; 
 width: 240px;
 height: 60px; }
 
 a[href*="lionoverview.php?id=209875"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/swartberg.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important;
 width: 240px;
 height: 60px; }
 
 /* Cubs & Males */
 
 a[href$="150057"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/Hx0kZJ3n/cubs.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* Empty */
 a[href$="378804"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/fRRg26zf/empty.png')!important; 
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* Females */
 a[href$="148383"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/qB8C6SGB/females2.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* NCL Paradise */
 a[href$="378803"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/jSHmJskc/swartbergss.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* Old Ladies */
 a[href$="261642"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/HWw1G9Tt/oldlads.png')!important; 
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* Sales */
 a[href$="149095"]>div.cave-grid>img {
-content: url('https://i.postimg.cc/8kY4HjJc/sales3.png')!important;
+content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 a[href$="unsorted-beetles.php?id=209875"] img {
-content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
 a[href$="mound.php?id=75174"] img {
-content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
 a[href$="mound.php?id=88781"] img {
-content:url('https://static.lioden.com/images/dynamic/backgrounds/snowydenBG.png') !important;
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
