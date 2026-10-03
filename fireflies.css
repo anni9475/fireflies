@@ -50,25 +50,40 @@ content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corrido
 width: 240px !important;
 height: 120px !important; }
 
+/* Beetle unsorted */
 a[href$="unsorted-beetles.php?id=209875"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetles */
 a[href$="mound.php?id=75174"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetle Spiders */
 a[href$="mound.php?id=88781"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetle Empty */
+a[href$="mound.php?id=266399"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
 
+/* Beetle Sales */
+a[href$="mound.php?id=266398"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
 
 .firefly {
   position: fixed;
